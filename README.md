@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/nickuunn/Active-Directory-Home-Lab/tree/main)
+  - [Setting up Active Directory Home Lab Tutorial](https://github.com/nickuunn/Active-Directory-Home-Lab/tree/main)
+  - [Ticket 01: User can't log in — account locked out](https://github.com/nickuunn/Active-Directory-Home-Lab/blob/main/tickets/01-account-locked-out.md)
   - [Security Upgrade With Splunk and Kali Linux]()
 
