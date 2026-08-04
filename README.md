@@ -14,6 +14,7 @@ Deployed a multi-tier Windows Server 2022 / Active Directory environment with OU
 
 **🎫 Help Desk Tickets:**
 - [01 – Account Locked Out](https://github.com/nickuunn/Active-Directory-Home-Lab/blob/main/tickets/01-account-locked-out.md)
+- [02 – Resetting User Password](https://github.com/nickuunn/Active-Directory-Home-Lab/blob/main/tickets/02-resetting-user-password.md)
 
 
 🔒 Security Upgrade with Splunk & Kali Linux — *in progress*
